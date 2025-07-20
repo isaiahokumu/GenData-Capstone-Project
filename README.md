@@ -2,7 +2,7 @@
 
 # Malaria Epidemiology Framework for Data Analytics
 
-This project analyzes outpatient and inpatient health service data in Kenya, focusing on disease trends, facility performance and regional health disparities using SQL, Excel and Tableau.
+This project aims to analyze malaria incidence cases, transmission patterns and donor distribution across different regions to inform public health policy and resource allocation decisions using SQL, Excel and Tableau.
 
 ---
 ## Problem Statement
