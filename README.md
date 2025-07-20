@@ -1,18 +1,18 @@
 # GenData-Capstone-Project
 
-# Health Service Utilization & Disease Burden in Kenya
+# Malaria Epidemiology Framework for Data Analytics
 
 This project analyzes outpatient and inpatient health service data in Kenya, focusing on disease trends, facility performance and regional health disparities using SQL, Excel and Tableau.
 
 ---
+## Problem Statement
+Despite global efforts advanced by the United Nations (UN) through the World Health Organization (WHO) to reduce malaria’s global burden, malaria remains the second leading cause of mortality in Sub-Saharan Africa. Countries that have adopted the National Malaria Program framework are making significant milestones across the region. This progress seems to face hindrances through fragmented data on malaria incidence, mortality rates, and intervention effectiveness. This fragmentation impedes policymakers' ability to design timely and targeted responses. Recent cuts in donor funding, particularly from the United States Agency for International Development (USAID) under the Trump administration, further threaten malaria control efforts. This project aims to analyze trends in malaria mortality rates, assess the patterns and effects of donor funding over time, and evaluate how these factors influence the malaria burden in Sub-Saharan Africa to generate actionable insights for policy and intervention planning.
+
+---
 
 ## Objectives
-My task in this project is to ensure I achieve the following;
-
-- Identify the top diseases by frequency and demographic distribution.
-- Analyze monthly trends in diseases like malaria, pneumonia, and diarrhoea.
-- Measure service utilization at facilities (OPD/IPD ratios, admissions).
-- Visualize health service data by region and facility using interactive dashboards.
+Overview
+This project aims to analyze trends in malaria incidence cases, transmission patterns, and donor distribution across different regions to inform public health policy and resource allocation decisions.
 
 ---
 
@@ -21,17 +21,15 @@ My task in this project is to ensure I achieve the following;
 | Tool    | Purpose                          |
 |---------|----------------------------------|
 | SQL     | Data modeling, joining, and aggregation |
-| Excel   | Cleaning, exploration, age group formatting |
+| Excel   | Cleaning, exploration |
 | Tableau | Dashboard creation, geospatial mapping |
 
 ---
 
 ## Dataset Sources
 
-- [Kenya Open Data Portal](https://www.opendata.go.ke)
-- [WHO Global Health Observatory](https://www.who.int/data/gho)
+- [[WHO Global Health Observatory](https://www.who.int/data/gho)](https://www.who.int/publications/m/item/annexes-world-malaria-report-2024)
 - [UNICEF Statistics](https://data.unicef.org)
-- [DHS Program](https://dhsprogram.com) (Kenya DHS, requires registration)
 
 ---
 
@@ -64,7 +62,6 @@ My task in this project is to ensure I achieve the following;
 
 ## Stretch Goals
 
-- Explore incorporating SHIF claims or immunization data
 - Add population denominators for calculating disease rates
 - Automate monthly updates using Tableau Prep or Python scripts
 
