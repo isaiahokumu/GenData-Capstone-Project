@@ -62,8 +62,9 @@ This project aims to analyze trends in malaria incidence cases, transmission pat
 
 ## Stretch Goals
 
-- Add population denominators for calculating disease rates
+- Predictive Modeling for Malaria Outbreaks
 - Automate monthly updates using Tableau Prep or Python scripts
+- Open Data Repository
 
 ---
 
