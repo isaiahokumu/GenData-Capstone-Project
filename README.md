@@ -17,11 +17,11 @@ This project aims to analyze trends in malaria incidence cases, transmission pat
 ---
 ## Key Research Questions
 
--Which countries have the highest malaria deaths in 2023?
-- How is population at risk distributed across countries?
+- Which countries have the highest malaria deaths in 2023?
+- How is the population at risk distributed across countries?
 - How has mortality changed over time in high-burden countries?
 - Do higher funding levels correlate with lower deaths?
-- Which funding sources contribute most in each country?
+- Which funding sources contribute the most in each country?
 
 ---
 ## Tools Used
