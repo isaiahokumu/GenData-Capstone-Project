@@ -15,15 +15,13 @@ Overview
 This project aims to analyze trends in malaria incidence cases, transmission patterns, and donor distribution across different regions to inform public health policy and resource allocation decisions.
 
 ---
-## Research Questions
+## Key Research Questions
 
-1. **What are the trends in malaria mortality rates in Sub-Saharan Africa over the past decade?**
-2. **How has the level and distribution of donor funding for malaria, particularly from USAID, changed over time?**
-3. **What is the relationship between donor funding and malaria mortality rates in Sub-Saharan Africa?**
-4. **Which Sub-Saharan African countries have experienced the most significant changes in malaria burden, and what interventions were implemented in those contexts?**
-5. **How does the fragmentation of malaria data affect policy development and response effectiveness in the region?**
-6. **What has been the impact of reduced international funding on malaria intervention programs and outcomes in high-burden countries?**
-7. **How can data consolidation and improved tracking enhance the effectiveness of malaria control strategies in Sub-Saharan Africa?**
+• Which countries have the highest malaria deaths in 2023?
+• How is population at risk distributed across countries?
+• How has mortality changed over time in high-burden countries?
+• Do higher funding levels correlate with lower deaths?
+• Which funding sources contribute most in each country?
 
 ---
 ## Tools Used
