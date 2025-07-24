@@ -77,5 +77,6 @@ This project aims to analyze trends in malaria incidence cases, transmission pat
 - Open Data Repository
 
 ---
+-- `access the project at https://malaria-spotlight-viz.lovable.app/`
 
 *Author: Isaiah Okumu*  
