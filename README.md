@@ -17,12 +17,18 @@ This project aims to analyze trends in malaria incidence cases, transmission pat
 ---
 ## Key Research Questions
 
-- Which countries have the highest malaria deaths in 2023?
-- How is the population at risk distributed across countries?
-- How has mortality changed over time in high-burden countries?
-- Do higher funding levels correlate with lower deaths?
-- Which funding sources contribute the most in each country?
-
+. Mortality and Burden
+• Which countries recorded the highest malaria-related deaths in 2023?
+• How is the population at risk of malaria distributed across Sub-Saharan African countries?
+• What is the relationship between malaria case incidence and mortality rates across different countries, and which countries demonstrate outlier patterns in case fatality ratios?
+2. Funding Patterns and Impact
+• Is there a correlation between higher levels of donor funding and reductions in malaria deaths?
+• Which funding sources (e.g., Global Fund, USAID, domestic governments) contribute most significantly to malaria control efforts?
+3. Intervention Coverage and Effectiveness
+• How has ITN (insecticide-treated net) coverage evolved across Sub-Saharan Africa from 2010 to 2022?
+• What is the comparative effectiveness of ITNs in reducing malaria incidence across different epidemiological and transmission settings?
+4. Distribution and Access
+• Which distribution channels (e.g., community health workers, public clinics, schools, mass campaigns) are most effective for ITN delivery in rural versus urban settings?
 ---
 ## Tools Used
 
